@@ -1,0 +1,10 @@
+/Users/dobigoonoff/Projects/Telegram_bot/Telegram_bot/obj/Release/net7.0/PubTmp/Out/Telegram_bot
+/Users/dobigoonoff/Projects/Telegram_bot/Telegram_bot/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/dobigoonoff/Projects/Telegram_bot/Telegram_bot/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/dobigoonoff/Projects/Telegram_bot/Telegram_bot/obj/Release/net7.0/PubTmp/Out/Telegram_bot.dll
+/Users/dobigoonoff/Projects/Telegram_bot/Telegram_bot/obj/Release/net7.0/PubTmp/Out/Telegram_bot.deps.json
+/Users/dobigoonoff/Projects/Telegram_bot/Telegram_bot/obj/Release/net7.0/PubTmp/Out/Telegram_bot.runtimeconfig.json
+/Users/dobigoonoff/Projects/Telegram_bot/Telegram_bot/obj/Release/net7.0/PubTmp/Out/Telegram_bot.pdb
+/Users/dobigoonoff/Projects/Telegram_bot/Telegram_bot/obj/Release/net7.0/PubTmp/Out/Newtonsoft.Json.dll
+/Users/dobigoonoff/Projects/Telegram_bot/Telegram_bot/obj/Release/net7.0/PubTmp/Out/Npgsql.dll
+/Users/dobigoonoff/Projects/Telegram_bot/Telegram_bot/obj/Release/net7.0/PubTmp/Out/Telegram.Bot.dll
